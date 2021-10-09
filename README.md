@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Bin! 👋
+
+I am a third-year student at Yale-NUS College who is majoring in Mathematical, Computational, and Statistical Science (CS Track). I am originally from South Korea but lived most of my life abroad in the Arabian Peninsula in Dubai, Abu Dhabi, and Doha. 
+
+🔭 I’m currently working on ...
+- curriculum research and planning for the upcoming HELA[^1] Computer Science BootCamp
+- designing a website to document my learning 
+- computational biology research to improve the accuracy and reliability of Patient-Derived Models and Xenografts
+
+🌱 I’m currently learning ... 
+- Programming for Data Science in Python
+- Parallel, Concurrent, and Distributed Programming in Scala
+- Introduction to Networks
 
 <!--
 **binchoi/binchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[^1]: Hope for Education and Leadership in Afghanistan: for more information, please visit their [website](https://helamun.org/ "HELA")
