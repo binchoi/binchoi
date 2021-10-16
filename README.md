@@ -5,7 +5,7 @@ I am a third-year student at Yale-NUS College who is majoring in Mathematical, C
 🔭 I’m currently working on ...
 - curriculum research and planning for the upcoming HELA[^1] Computer Science BootCamp
 - computational biology research to improve the accuracy and reliability of Patient-Derived Models and Xenografts
-- personal documentation website
+- building a personal documentation website
 
 🌱 I’m currently learning ... 
 - Programming for Data Science in Python
