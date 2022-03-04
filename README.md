@@ -3,6 +3,7 @@
 I am a third-year student at Yale-NUS College who is majoring in Mathematical, Computational, and Statistical Science (CS Track). I am originally from South Korea but lived most of my life abroad in the Arabian Peninsula in Dubai, Abu Dhabi, and Doha. 
 
 🔭 I’m currently working on ...
+- creating my own Java-based web-service using Spring Boot 2
 - curriculum research and planning for the upcoming HELA[^1] Computer Science BootCamp
 - computational biology research to improve the accuracy and reliability of Patient-Derived Models and Xenografts
 - building a personal documentation website
