@@ -5,7 +5,7 @@ I am a third-year student at Yale-NUS College who is majoring in Mathematical, C
 🔭 I’m currently working on ...
 - creating my own Java-based web-service using Spring Boot 2 (www.habitracer.com)
 - computational biology research to improve the accuracy and reliability of Patient-Derived Models and Xenografts
-- honing my understanding of data structures and algorithms on my DSA Blog (binchoi.github.io/leetcode)
+- honing my understanding of data structures and algorithms on my DSA Blog (https://binchoi.github.io/leetcode)
 - curriculum research and planning for the upcoming HELA[^1] Computer Science BootCamp
 
 <!-- 🌱 I’m currently learning ... 
