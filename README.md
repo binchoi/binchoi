@@ -3,16 +3,18 @@
 I am a third-year student at Yale-NUS College who is majoring in Mathematical, Computational, and Statistical Science (CS Track). I am originally from South Korea but lived most of my life abroad in the Arabian Peninsula in Dubai, Abu Dhabi, and Doha. 
 
 🔭 I’m currently working on ...
-- creating my own Java-based web-service using Spring Boot 2
-- curriculum research and planning for the upcoming HELA[^1] Computer Science BootCamp
+- creating my own Java-based web-service using Spring Boot 2 (www.habitracer.com)
 - computational biology research to improve the accuracy and reliability of Patient-Derived Models and Xenografts
-- building a personal documentation website
+- honing my understanding of data structures and algorithms on my DSA Blog (binchoi.github.io/leetcode)
+- curriculum research and planning for the upcoming HELA[^1] Computer Science BootCamp
 
-🌱 I’m currently learning ... 
-- Programming for Data Science in Python
+<!-- 🌱 I’m currently learning ... 
+- 
+- Software Engineering -->
+<!-- - Programming for Data Science in Python
 - Parallel, Concurrent, and Distributed Programming in Scala
 - Introduction to Networks
-
+ -->
 <!--
 **binchoi/binchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
