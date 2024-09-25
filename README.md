@@ -1,6 +1,6 @@
 ### Hi, I'm Bin! 👋
 
-I am a fourth-year student at Yale-NUS College who is majoring in Mathematical, Computational, and Statistical Science (CS Track). I am originally from South Korea but lived most of my life abroad in the Arabian Peninsula in Dubai, Abu Dhabi, and Doha. 
+I am originally from South Korea but lived most of my life abroad in the Arabian Peninsula in Dubai, Abu Dhabi, and Doha. I am currently in New York City and will be returning to Singapore in January 2025.
 
 <!-- 🔭 I’m currently working on ...
 - creating my own Java-based web-service using Spring Boot 2 (www.habitracer.com)
